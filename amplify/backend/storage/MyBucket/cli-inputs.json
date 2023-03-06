@@ -1,0 +1,12 @@
+{
+  "resourceName": "MyBucket",
+  "policyUUID": "5867ddf5",
+  "bucketName": "amplifyreactgraphqld7e148e4785c40d7919e9386158f",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "READ"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
